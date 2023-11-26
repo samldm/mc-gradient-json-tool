@@ -9,11 +9,12 @@ A simple tool that helps you creating json text gradient
 
 ## Usage
 
-- Run the program
-- Fill inputs
-- Click on generate
-- Copy all the generated json
-- Use it
+### Step1: Run the program
+![image](https://raw.githubusercontent.com/samldm/mc-gradient-json-tool/main/.images/img1.png)
+### Step2: Fill inputs and click on generate
+![image](https://raw.githubusercontent.com/samldm/mc-gradient-json-tool/main/.images/img2.png)
+### Step3: Copy the generated json and use it as you want
+![image](https://raw.githubusercontent.com/samldm/mc-gradient-json-tool/main/.images/img3.png)
 
 ## Soon
 
